@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remarkable prophesies in order to the present times the one of Gilpine Girnigo, one of the heritable poets of the old Thanes of Gilliquhimnee: the other of Sir Tristram, Clerk of the Kitchin to the Knights of King Arthur's Round Table. The first, faithfully translated out of the original Ersh, by Alister Mackfaddock, Principal of the Colledge of Laganachadrum: the other, out of the old Saxon, by Gustavus Gans, dreelmaster of Buxstihow. The third of Quean Guinivere, that was principall gigot, and dry nurse, to Sir Lancelot du Lake; he that was the great avenger of the injuries done to crackt chamber-maids.</title>
+            <author>St. Serfe, Thomas, Sir, fl. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03585</idno>
+            <idno type="STC">Wing G789A</idno>
+            <idno type="STC">ESTC R177420</idno>
+            <idno type="EEBO-CITATION">52612168</idno>
+            <idno type="OCLC">ocm 52612168</idno>
+            <idno type="VID">179463</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179463)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2789:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remarkable prophesies in order to the present times the one of Gilpine Girnigo, one of the heritable poets of the old Thanes of Gilliquhimnee: the other of Sir Tristram, Clerk of the Kitchin to the Knights of King Arthur's Round Table. The first, faithfully translated out of the original Ersh, by Alister Mackfaddock, Principal of the Colledge of Laganachadrum: the other, out of the old Saxon, by Gustavus Gans, dreelmaster of Buxstihow. The third of Quean Guinivere, that was principall gigot, and dry nurse, to Sir Lancelot du Lake; he that was the great avenger of the injuries done to crackt chamber-maids.</title>
+                  <author>St. Serfe, Thomas, Sir, fl. 1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joacim Nosche,</publisher>
+                  <pubPlace>Amsterdam [i.e. Edinburgh] :</pubPlace>
+                  <date>Anno Dom. 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Anonymous. Attributed to Thomas St. Serfe.</note>
+                  <note>Imprint false: correct place of publication from Wing.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Humor --  17th century.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179463:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:179463:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:179463:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:179463:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:179463:3"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:179463:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <p>THE REMARKABLE PROPHESIES In Order to the PRESENT TIMES:</p>
+            <p>The One of <hi>GILPINE GIRNIGO,</hi> One of the Heritable Poets of the old <hi>Thanes</hi> of <hi>Gilliquhimnee:</hi>
+            </p>
+            <p>The Other of Sir <hi>TRISTRAM,</hi> Clerk of the Kitchin to the Knights of King <hi>Arthur's</hi> Round Table.</p>
+            <p>The Firſt, faithfully Tranſlated out of the Origi<g ref="char:EOLhyphen"/>nal Erſh, by <hi>Aliſter Mackfaddock,</hi> Principall of the Colledge of <hi>Laganachadrum:</hi>
+            </p>
+            <p>The Other, out of the old Saxon, by <hi>Guſtavus Gans,</hi> Dreel<g ref="char:EOLhyphen"/>maſter of <hi>Buxſtihow.</hi>
+            </p>
+            <p>The Third of Quean <hi>G<g ref="char:V">Ʋ</g>INIVERE,</hi> that was principall Gigot, and dry Nurſe, to Sir <hi>Lancelot du Lake;</hi> He that was the great Avenger of the Injuries done to crackt Chamber-maids.</p>
+            <p>
+               <hi>Amſterdam,</hi> Printed by <hi>Joacim Noſche, Anno DOM.</hi> 1665.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb n="2" facs="tcp:179463:4"/>
+            <!-- PDF PAGE 49 -->
+            <head>The Publiſher to the Reader.</head>
+            <p>THir Propheſies are apted to the Elevations of your Underſtandings, much better than he that wrote the Scouts of <hi>Cockeny:</hi> Yet the <hi>Cockeny</hi> way is no new thing; for many are of opinion that D. <hi>Rablais Garagantua</hi> and <hi>Pantagruel</hi> was to typifie, that the late Covenant ſhould bulge out from the ribs of the <hi>French</hi> League: Neither is it much out of purpoſe, conſidering the inſatiability of their Maws, and how many thouſands each of them had devoured. Some Pedants again are of the mind, that the great Conteſt of <hi>Berkles, Poliarchus</hi> and <hi>Archombrotus</hi> was not the Kingdom of <hi>France</hi> in the Perſon of <hi>Argenis,</hi> but who ſhould be Profeſſor of Rhetorick in the Colledge of <hi>Sorbon.</hi> Others again will needs have <hi>Sydneys</hi> bloudy Combats of <hi>Muſidorus</hi> and <hi>Pyrocles</hi> againſt <hi>Amphiolus</hi> and <hi>Anaxius,</hi> to be groun<g ref="char:EOLhyphen"/>ded upon no other Quarrell, than who ſhould be Knight at the Parliament for <hi>Montgomery-ſhire;</hi> and that old <hi>Baſilius</hi> and <hi>Kallander</hi> were two Juſtices of the Peace in the County that took great delight in guzelling nappy Ale. But they are highly miſtaken, that thought <hi>Zelman</hi> and <hi>Gynecia</hi> a couple of <hi>Hermophrodites.</hi> No, no. If their delights had been double, their paſſions had been mutuall: but of this no more. Only I tell you, as to thir Predictions, the weakeſt Nodle cannot miſſe in the ſenſe, ſince every one takes upon him to interpret <hi>Merlin</hi> and <hi>Thomas</hi> the Rymer. If you meet with any difficulty, it's but ſome night or other; Go and keep a Rendezvous with ſome Coaſt-ſide Wives, who will clear you. Farewell,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:179463:4"/>
+            <!-- PDF PAGE 49 -->
+            <div type="part">
+               <head>THE PROPHESIE OF <hi>GILPINE GIRNIGO.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>T ſhall fall out in thoſe dayes, that the thieving and whoring Planets, <hi>Venus</hi> and <hi>Mercury,</hi> ſhall gender Comets and Meteors male and female, with as great facility as <hi>Aberlady</hi> ſands caſt up Skait bubles: Then will the time be, that the Cods and Killing in the Northern ſeas will riot, in as great plenty, with the Harrigals of <hi>Dutch Tarpalians,</hi> as the Country Farmers do with ſtibble-Geeſe after the Coronation of their Corn-ſtacks; And the din Cow of <hi>Denmark,</hi> that ſhould have lowed at the <hi>Baſſe,</hi> ſhall be ſucked yell by the coaſt-ſide Witches of the <hi>Firth;</hi> And the black Bull of <hi>Barroſtownneſſe</hi> ſhall be gelt by a phanatick zeal, becauſe his bellowing ſo much re<g ref="char:EOLhyphen"/>ſembles the great Pipes of an Organ; And the <hi>Goat</hi> with the gilded Horn, that was ſometime Valentine to a <hi>Vene<g ref="char:EOLhyphen"/>tian Magnifico,</hi> ſhall be gallanted by the black Ramme of the <hi>Bonrock,</hi> that ſwam the Loch of the <hi>Lowes,</hi> and cured three hundred Ews of the Green-ſickneſſe; And at the crowing of the Cock of <hi>Killimure,</hi> the black Hens of <hi>For<g ref="char:EOLhyphen"/>far</hi>
+                  <pb n="2" facs="tcp:179463:5"/>
+                  <!-- PDF PAGE 50 -->ſhall begin to keckle; When the blew Bores of <hi>Buchan</hi> begin to briſtle, it will be hard to keep the Swine of the <hi>Kers</hi> of <hi>Gowry</hi> from briming; The Meſſengers of the Mar<g ref="char:EOLhyphen"/>quiſat of <hi>Minnibole</hi> will ſummond the Haddocks of <hi>Ba<g ref="char:EOLhyphen"/>lantrae</hi> before the Lords of the Seſſion of <hi>Glenape,</hi> and charge them upon the account of ſpoilȝie, for eating up the green beer that grew on the hanches of <hi>Griven;</hi> The Generation of the Clyd-ſide Saints, that were begotten upon the ſteam of Mackgibbons wine, ſhall perſevere in their <hi>Dutch</hi> Devotions, among the ſanctified Siſter-hood of Clout the Kourches: The Ghoſts of thoſe Warriours that fell at <hi>Flowdown</hi> and <hi>Bannockburn,</hi> ſhall be invited to a Reconciliation-ſupper by that great ſubterranean Mo<g ref="char:EOLhyphen"/>narch King <hi>Oberon:</hi> The place is <hi>Pentland</hi> Hills; and to protect them from the night air, the cloath is to be laid under a Dock-leaf: The entertainment is Spoon-meat, compoſed of the juice of Snails, and ſeaſoned with the ſeed: of the Fairn. Some three weeks, three dayes, and three minuts after, there ſhall be heard and ſeen many ſtrange apparitions and threatning voices, mingled with ſorrow<g ref="char:EOLhyphen"/>full ſhriekings, in and about <hi>Arthur</hi>'s Seat and <hi>Salisbury</hi> Craigs: The <hi>Cyclops</hi> of <hi>Culroſſe</hi> ſhall make ſuch noiſe in ſoddering of Girdles, to arme the Curaſſiers for <hi>Gladſmore,</hi> that the Common-bell of <hi>Edinburgh</hi> ſhall ſcarcely be heard betwixt the Weſt <hi>India</hi> Tullip and the Croſſe. But the great expectations the World laid up for that bloudy and dreadfull day, ſhall be at a period, and the Society of Prophecy-mongers may diſpoſe of their Brains for other Curioſities. Oh! but to think on the Drudgery that comes to the ſhare of the little Poets, in making funerall Elegies, lamentable Ditties and Epitaphs, patcht up of as many peeces as was <hi>Dametas</hi> Armour, in memory of their
+<pb n="7" facs="tcp:179463:5"/>
+                  <!-- PDF PAGE 50 -->ſlaughtered Friends that are to pe<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> on that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>  
+                  <hi>Lothian</hi> Heath. But yet there's one comfort; Its agreed by articles, the Party overcome is oblidged never to make war for the future; ſo that fierce and implacable quarrell, that has ſo long continued 'twixt the <hi>Amazonian</hi> Genera<g ref="char:EOLhyphen"/>tions of <hi>Heroinaes,</hi> ſhall at length be decided: <hi>viz.</hi> The Eaſtern Veſtals, that trade in white ſand to ſcour the caps, againſt the Weſtern Widows that deal in <hi>Abercorn</hi> Muſſels. She that commands the ſandy Militia, is <hi>Letronia Atra<g ref="char:EOLhyphen"/>menta,</hi> daughter to a laborious School-maſter in <hi>Muſſel<g ref="char:EOLhyphen"/>burgh:</hi> the other is <hi>Barbary Bucky,</hi> Relict to a <hi>New-haven</hi> Oyſter-dregger. What the event of the battell will be, the Author ſayes, his <hi>Mephoſtophiles</hi> adviſeth every body that's curious, to repair to the Magiſtrates of <hi>Hadding<g ref="char:EOLhyphen"/>toun,</hi> the day after the fight, and there they will get ſure information. Thus much for <hi>Gilpine.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Propheſie of Sir <hi>Triſtram.</hi>
+               </head>
+               <p>WHen Stranger-ſtars ſhall piaff among the celeſti<g ref="char:EOLhyphen"/>all Families, with feathered Muſtachoes, and Eaſt <hi>Friezland</hi> beards and a braſſe countenance, equall to a <hi>French</hi> Dancing-maſter, then ſhall the Wives of <hi>Leith</hi> be quit with the Husbands of <hi>Corſtorphine;</hi> and the phanatick faction of <hi>Calidonia</hi> ſhall be ſo feeble, that there ſhall be none to countenance the villanous Act of the Weſt-kirk, but a few drunken beſotted Elders, who (if they had their due) ſhould beſtride the woodden Horſe, with a Ruff of Quart-ſtoups, and a brace of Pint-bottels
+<pb n="2" facs="tcp:179463:6"/>
+                  <!-- PDF PAGE 51 -->for <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and-<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ings. About the ſame time the pickled Her<g ref="char:EOLhyphen"/>ring in <hi>Holland</hi> ſhall be at twelve ſtevers a piece; and the Town of <hi>Amſterdam,</hi> in imitation of <hi>Algiers,</hi> ſhall court the great <hi>Turks</hi> friendſhip with a Tribute of Catamites fattened with butter, milk and black beans. Then ſhall the Prediction of <hi>Sybilla Loytburnia</hi> be fulfilled, <hi>viz.</hi> That when <hi>Mahumet</hi> is glewed to the ſtern of a Squab-skipper, the Whore of <hi>Babel</hi> will turn up to <hi>Presbyter John,</hi> who ſhall gender a race of Uſurers, whoſe bounty will furniſh the recuſant Brethren with Ringo roots and Mondungoes: Providing ſtill, they oblidge their Bell-men, Readers and Beadles to conform, in regard they are members not ca<g ref="char:EOLhyphen"/>pable of the Benevolence. In this 1665. the long Wars that was between the Pearling-weavers daughters of <hi>Athens</hi> and the Webſters daughters of <hi>Lacedemon</hi> ſhall be decided by a Match at Stool-ball, in the fields of <hi>Philippi:</hi> and the vanquiſhed Party is to pay a Tanzie-cake of the quan<g ref="char:EOLhyphen"/>tity of an ordinary Mill-ſtone. After that, they are, with a conſort of Bag-pipes and <hi>Strathdown</hi> Trumps, to give a meeting, in the Plains of <hi>Pharſalia,</hi> to the Link-boyes of <hi>London;</hi> where, after they are wearied with dancing Le<g ref="char:EOLhyphen"/>valtoes and Pantelons, they will go to pairing, and beget ſuch a race of Brats of both ſexes, as will be ſufficient to plant the Common-wealth of <hi>Utopia.</hi>
+               </p>
+               <p>About the ſame time there will appear a Generation of Renegado ſtripling Pedants, who, after they have skaffed a little Philoſophy among Forraign Univerſities, will re<g ref="char:EOLhyphen"/>turn home, fraughted with as many lies, as will either ſlide them into ſome little pratling imployment, or furniſh them bread and beef from old Wives, for retailing their Fables. So much for Sir <hi>Triſtram.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:179463:6"/>
+               <!-- PDF PAGE 51 -->
+               <head>Queen <hi>Guinivers</hi> Prophecy.</head>
+               <p>WHen <hi>Saturn</hi> peeps out of the Clouds, and ſhews his buſhy beard, then the <hi>Mare-ſwine</hi> of the Chan<g ref="char:EOLhyphen"/>nell will be vapouring with <hi>Dutch</hi> Caps, and car<g ref="char:EOLhyphen"/>rowſing with their Brandee; and, according to the cu<g ref="char:EOLhyphen"/>ſtome of that Nation, after they are ſottiſhly drunk, in imitation of theſe upon whom they are gnawing, they will go a whitling with their knives, by way of ſnedding and ſneering, and make ſuch noiſe in the Valleys of the Deeps, that <hi>Neptune</hi> will be forced to order his Life-guards of Sturgeon to go and chaſtiſe their intemperance. About which time the ſawcy She pherdeſſe, <hi>Urania</hi> of <hi>Zealand,</hi> will be reduced to gather Bait for the White-fiſhers of the <hi>Texel;</hi> and the <hi>Belgick</hi> Lyon ſhall be ſo contemptible, that ſhe will ſcarcely be admitted in moſt parts of the World to officiate the duty of a Cattone for catching of myce. In theſe dayes there ſhall come a Greek Mounte<g ref="char:EOLhyphen"/>bank to <hi>Calidonia,</hi> and with him bring an <hi>Antilope,</hi> be<g ref="char:EOLhyphen"/>tween whoſe horns ſhall be fixed a Swing, that will cure old Wives of the Rickets that's paſt ſixty. Many more ſtrange things; As, the Tinkers on <hi>Tinto</hi> top will match with the Black-ſmiths daughters of <hi>Pickentillum:</hi> And Count <hi>de Corde</hi> a <hi>Muſcovitter</hi> ſhall marry the Counteſſe <hi>Ragotsky;</hi> and after they are largely intertained with Garlick-water by the Hoſpitall <hi>Waywood</hi> of <hi>Walache;</hi> they will, in queſt of Honour, repair to the Dominions of <hi>Chawfair</hi> and <hi>Sunnyſide,</hi> where the Prince of the Coun<g ref="char:EOLhyphen"/>trey will entruſt the charge of his Male-fleet to the Count,
+<pb n="8" facs="tcp:179463:7"/>
+                  <!-- PDF PAGE 52 -->and that of the Females to his Lady. The Court of Admi<g ref="char:EOLhyphen"/>ralty on theſe parts is managed by a Brother-hood of <hi>B. B.</hi> that, for all generous and requiſite qualifications, they much tranſcend the Confraternity of the <hi>Roſy Crucians.</hi>
+               </p>
+               <p>In the north part of <hi>Albany,</hi> the renowned Citty of <hi>Bonaccord</hi> from hence ſhall never have Spits and Raxes im<g ref="char:EOLhyphen"/>priſoned, during the holy dayes of <hi>Chriſtmaſſe:</hi> For he that had his head ſituate in a Cambrick web (like a plot<g ref="char:EOLhyphen"/>ted Hogs ſnout in a large plait) will be removed; and the horns of theſe that were of his Tribe, will be ſo far ſned, that there will be no danger from their puſhing: And both the Men and Women of them that are left (even <hi>Tam Trampit</hi> and his wife) will deſpiſe their converſati<g ref="char:EOLhyphen"/>on. And if any of them, in a fit of diffidence, minde to skip into the Hot-houſe of Eternity, there will ſtill be found <hi>Kilmarnoch</hi> Edges, and ſeldome Cany Sweet-pots wants water.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179463:7"/>
+            <!-- PDF PAGE 52 -->
+         </div>
+      </body>
+   </text>
+</TEI>
